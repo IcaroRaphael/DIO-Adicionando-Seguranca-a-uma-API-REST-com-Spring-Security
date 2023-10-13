@@ -1,2 +1,2 @@
 # DIO-Adicionando-Seguranca-a-uma-API-REST-com-Spring-Security
-CURSO: Adicionando Segurança a uma API REST com Spring Security (DIO)
+CURSO: [Adicionando Segurança a uma API REST com Spring Security (DIO)](https://www.dio.me/)
